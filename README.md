@@ -16,8 +16,64 @@ DOCENTE: ING. DARWIN OMAR ALULEMA FLORES
 
 FECHA: 12/02/2023
 1. OBJETIVOS
+
+•	Describir la construcción y las características básicas de un inductor
+•	Estudiar varios tipos de inductores 
+•	Analizar inductores dispuestos en serie y en paralelo 
+•	Analizar circuitos inductivos conmutadores de cd 
+•	Analizar circuitos inductivos de ca
+•	Describir cómo se construye un transformador y cómo función 
+•	Describir cómo los transformadores incrementan y disminuyen el voltaje 
+•	Analizar el efecto de una carga resistiva a través del devanado secundario 
+•	 Analizar el concepto de carga reflejada en un transformador
+
+
 2. MARCO TEÓRICO
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
-4. VIDEO
-5. Conclusiones
-6. Bibliografia
+CAPÍTULO 
+
+INDUCTORES
+
+SECCIÓN 13–1 El inductor básico
+
+![image](https://user-images.githubusercontent.com/117738904/217657250-278ac945-b489-42a3-84af-a16de951f581.png)
+
+![image](https://user-images.githubusercontent.com/117738904/217657556-70f298b7-58f9-446b-a919-9d78c823a39a.png)
+
+![image](https://user-images.githubusercontent.com/117738904/217657606-b37093be-b789-4d9b-89d3-7e3bbe75a91c.png)
+
+![image](https://user-images.githubusercontent.com/117738904/217657650-b9e9c120-8e1d-4438-9fba-a4edde2ec050.png)
+
+![image](https://user-images.githubusercontent.com/117738904/217657693-3394c59d-8cb9-4101-819e-3e3def9c140d.png)
+
+SECCIÓN 13–3 Inductores en serie y en paralelo
+
+![image](https://user-images.githubusercontent.com/117738904/217657824-dc533e1c-42c1-40ef-8e76-716e606714bb.png)
+
+![image](https://user-images.githubusercontent.com/117738904/217657921-ef5b3ec4-ef9f-4747-ae9c-1e0bf375c4da.png)
+
+![image](https://user-images.githubusercontent.com/117738904/217657965-99879183-7cd6-403e-b475-880b0d000308.png)
+
+![image](https://user-images.githubusercontent.com/117738904/217658020-54e93cce-2bc7-4334-b2f6-168c27956037.png)
+
+![image](https://user-images.githubusercontent.com/117738904/217658056-7223e2b0-4bc0-415b-8927-1a0655075677.png)
+
+SECCIÓN 13–4 Inductores en circuitos de cd 
+
+![image](https://user-images.githubusercontent.com/117738904/217658258-dc96317c-856a-4383-8d14-552eb9ed4e7b.png)
+
+![image](https://user-images.githubusercontent.com/117738904/217658300-88f9d54a-bfd0-4286-9cb8-de0c2a295451.png)
+
+![image](https://user-images.githubusercontent.com/117738904/217658370-1c38c1a1-b9c0-45b8-b1d9-4544291206e7.png)
+
+![image](https://user-images.githubusercontent.com/117738904/217658396-67aea048-709c-4312-a877-25ee090db919.png)
+
+![image](https://user-images.githubusercontent.com/117738904/217658459-391a5b64-4ead-4dd5-9ecb-68fa044d6a20.png)
+
+
+
+
+5. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+6. VIDEO
+7. Conclusiones
+8. Bibliografia
