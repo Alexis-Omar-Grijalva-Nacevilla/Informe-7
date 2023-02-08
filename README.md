@@ -71,6 +71,26 @@ SECCIÓN 13–4 Inductores en circuitos de cd
 ![image](https://user-images.githubusercontent.com/117738904/217658459-391a5b64-4ead-4dd5-9ecb-68fa044d6a20.png)
 
 
+![image](https://user-images.githubusercontent.com/117738904/217658680-39acc35c-67e9-4e0c-9b1d-9299c238dcc5.png)
+
+![image](https://user-images.githubusercontent.com/117738904/217658732-eb7faad8-36fe-4154-8746-4277619c227d.png)
+
+SECCIÓN 13–5 Inductores en circuitos de ca
+
+![image](https://user-images.githubusercontent.com/117738904/217658797-6187095c-d227-452c-a9dd-f38c8fff752a.png)
+
+![image](https://user-images.githubusercontent.com/117738904/217658835-96db0b75-1983-4531-aa24-562d615701b6.png)
+
+![image](https://user-images.githubusercontent.com/117738904/217658892-f5100766-62d2-4de5-bff8-aa182adc28bc.png)
+
+![image](https://user-images.githubusercontent.com/117738904/217658927-d387c61d-9a7e-4d43-acc1-25d30d69ab29.png)
+
+![image](https://user-images.githubusercontent.com/117738904/217658962-d3332361-0257-41fd-9379-df363f30316a.png)
+
+![image](https://user-images.githubusercontent.com/117738904/217659032-226d2226-c627-47af-86a4-2d927b72362f.png)
+
+![image](https://user-images.githubusercontent.com/117738904/217659074-709a750a-cc4c-4718-b8ff-2dd16b4cb233.png)
+
 
 
 5. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
