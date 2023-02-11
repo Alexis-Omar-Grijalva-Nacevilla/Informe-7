@@ -158,3 +158,18 @@ SECCIÓN 14–9 Localización de fallas
 ![image](https://user-images.githubusercontent.com/117738904/218263346-d36f8b7e-7467-4336-9f9d-fd8c6d74978e.png)
 
 
+4. VIDE
+
+https://youtu.be/TY0gqQbWlJM
+
+
+
+
+5. CONCLUSIONES
+
+6.BIBLIOGRAFIA
+
+Ingenieria Mecaenix . (20 de 02 de 2019). Recuperado el 11 de 02 de 2023, de https://www.ingmecafenix.com/electronica/el-capacitor/
+
+MecatrónicaLATAM. (23 de 04 de 2021). Recuperado el 08 de 02 de 2023, de https://www.mecatronicalatam.com/es/tutoriales/electronica/componentes-electronicos/capacitor/
+
