@@ -18,19 +18,29 @@ FECHA: 12/02/2023
 1. OBJETIVOS
 
 •	Describir la construcción y las características básicas de un inductor
+
 •	Estudiar varios tipos de inductores 
+
 •	Analizar inductores dispuestos en serie y en paralelo 
+
 •	Analizar circuitos inductivos conmutadores de cd 
+
 •	Analizar circuitos inductivos de ca
+
 •	Describir cómo se construye un transformador y cómo función 
+
 •	Describir cómo los transformadores incrementan y disminuyen el voltaje 
+
 •	Analizar el efecto de una carga resistiva a través del devanado secundario 
+
 •	 Analizar el concepto de carga reflejada en un transformador
 
 
 2. MARCO TEÓRICO
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 CAPÍTULO 
+
+CAPITULO 13 
 
 INDUCTORES
 
@@ -92,8 +102,59 @@ SECCIÓN 13–5 Inductores en circuitos de ca
 ![image](https://user-images.githubusercontent.com/117738904/217659520-7f2a008a-c1c4-44f3-b4ed-46b613dd524a.png)
 
 
+CAPITULO 14
 
-5. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
-6. VIDEO
-7. Conclusiones
-8. Bibliografia
+TRANSFORMADORES
+
+SECCIÓN 14–1  Inductancia mutua
+
+![image](https://user-images.githubusercontent.com/117738904/218263091-197745d8-1161-467e-9db9-69675f920548.png)
+
+SECCIÓN 14–2 El transformador básico 
+
+![image](https://user-images.githubusercontent.com/117738904/218263108-da2d4768-3636-496f-a7cc-eb39cd670bba.png)
+
+![image](https://user-images.githubusercontent.com/117738904/218263114-2650fa89-7e51-455f-bd6c-f261fed28639.png)
+
+SECCIÓN 14–3 Transformadores elevadores y reductores
+
+![image](https://user-images.githubusercontent.com/117738904/218263140-c4b1dc6c-0816-4ca1-801d-f457b9ec94dd.png)
+
+![image](https://user-images.githubusercontent.com/117738904/218263161-e2c06115-1018-457a-8502-bb4c15f0e06c.png)
+
+![image](https://user-images.githubusercontent.com/117738904/218263173-dc326c64-7aa0-4269-ad27-616a1e264a69.png)
+
+SECCIÓN 14–4 Carga del devanado secundario
+
+![image](https://user-images.githubusercontent.com/117738904/218263197-265e3d81-77db-4fff-8279-2d92e00e81a0.png)
+
+![image](https://user-images.githubusercontent.com/117738904/218263209-3d27d423-ecf6-480b-bc14-32dd3cc3cbaa.png)
+
+SECCIÓN 14–5 Carga reflejada
+
+![image](https://user-images.githubusercontent.com/117738904/218263229-02b1467a-c352-48f4-adb8-dea0e2c38b33.png)
+
+SECCIÓN 14–6 Igualación de impedancia
+
+![image](https://user-images.githubusercontent.com/117738904/218263247-0921a195-d14a-4dc9-8120-4b0d08c960d0.png)
+
+SECCIÓN 14–7 Características de un transformador no ideal 
+
+![image](https://user-images.githubusercontent.com/117738904/218263266-fcf8fe30-734f-4187-87f2-7b71ae10ed43.png)
+
+![image](https://user-images.githubusercontent.com/117738904/218263287-e1e3c117-3838-4d84-859a-3aed0a74af23.png)
+
+SECCIÓN 14–8 Transformadores con tomas y devanados múltiples 
+
+![image](https://user-images.githubusercontent.com/117738904/218263307-7d993a0b-affa-4988-be26-ad8212357182.png)
+
+
+![image](https://user-images.githubusercontent.com/117738904/218263324-502ca202-4d06-41c5-b3f7-452fc5bf9140.png)
+
+![image](https://user-images.githubusercontent.com/117738904/218263331-951ed983-cc67-41e5-a1ec-3290f064361a.png)
+
+SECCIÓN 14–9 Localización de fallas
+
+![image](https://user-images.githubusercontent.com/117738904/218263346-d36f8b7e-7467-4336-9f9d-fd8c6d74978e.png)
+
+
