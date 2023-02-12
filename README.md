@@ -36,9 +36,24 @@ FECHA: 12/02/2023
 •	 Analizar el concepto de carga reflejada en un transformador
 
 
-2. MARCO TEÓRICO
-3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
-CAPÍTULO 
+2. MARCO TEÓRICO    
+
+
+CAPITULO 13 -  INDUCTORES
+
+![image](https://user-images.githubusercontent.com/117738904/218341114-e9386ba4-632c-43b2-94b8-939d806d72af.png)
+
+CAPITULO 14  -  TRANSFORMADORES
+
+![image](https://user-images.githubusercontent.com/117738904/218341142-4e5e2fa7-d978-4518-aa04-2b85295abb90.png)
+
+
+
+3. EXPLICACI{ON Y RESOLUCION DE EJERCICIOS O PROBLEMAS
+
+
+
+
 
 CAPITULO 13 
 
