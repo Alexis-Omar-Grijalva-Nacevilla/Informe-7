@@ -182,6 +182,17 @@ https://youtu.be/TY0gqQbWlJM
 
 5. CONCLUSIONES
 
+•	La conversión de energía eléctrica en calor en un transformador real se deriva de las resistencias de los devanados, de la pérdida por histéresis en el núcleo, de las corrientes parásitas en el núcleo, y de la fuga de flujo
+
+•	Ciertos transformadores pueden igualar una resistencia de carga a una resistencia de fuente para lograr la transferencia de potencia máxima cuando se selecciona la relación de vueltas apropiada
+
+•	La inductancia es directamente proporcional al cuadrado de la cantidad de vueltas, a la permeabilidad, y al área de sección transversal del núcleo. Es inversamente proporcional a la longitud del núcleo.
+
+•	En un inductor, la potencia real es cero; esto es, no se pierde energía en un inductor ideal debido a la con versión en calor, sólo en su resistencia de devanado
+
+
+
+
 6.BIBLIOGRAFIA
 
 Ingenieria Mecaenix . (20 de 02 de 2019). Recuperado el 11 de 02 de 2023, de https://www.ingmecafenix.com/electronica/el-capacitor/
